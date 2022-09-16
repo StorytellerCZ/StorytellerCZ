@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm all about JavaScript<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='JavaScript' height='16'> with the Meteor framework <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Meteor' height='16'>. Here in the open source area I mainly like to focus on features that help build communities and to support communities like Meteor, hence people sometimes call me Community Engineer.
+I'm all about JavaScript <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='JavaScript' height='16'> with the Meteor framework <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Meteor' height='16'>. Here in the open source area I mainly like to focus on features that help build communities and to support communities like Meteor, hence people sometimes call me Community Engineer.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StorytellerCZ&count_private=true&theme=merko&show_icons=true)
+![StorytellerCZ's github stats](https://github-readme-stats.vercel.app/api?username=StorytellerCZ&count_private=true&theme=merko&show_icons=true)
 
 #### My online footprint
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Meteor forums profile' height='40'>](https://forums.meteor.com/u/storyteller)
