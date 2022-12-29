@@ -6,11 +6,13 @@ I'm all about JavaScript <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/meteor.svg' alt='Meteor forums profile' height='40'>](https://forums.meteor.com/u/storyteller)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/storytellercz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/2961489/storytellercz)
 
-[![An image of @storyteller's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/storyteller)](https://holopin.io/@storyteller)
-
 ---------
 
 If you like what I do, please consider [sponsoring me](https://github.com/sponsors/StorytellerCZ) so that I can do more of it!
+
+---------
+
+[![An image of @storyteller's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/storyteller)](https://holopin.io/@storyteller)
 
 <!--
 **StorytellerCZ/StorytellerCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
